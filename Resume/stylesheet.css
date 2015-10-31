@@ -1,0 +1,25 @@
+﻿h1 {
+    font-size:45px;
+    margin-bottom:5px;
+}
+
+.header-break {
+    height:5px;
+    background-color:black;
+}
+
+.section hr {
+    background-color:maroon;
+    height:1px;
+}
+
+.section {
+    display:flex;
+    flex-direction:row;
+    margin-bottom: 20px;
+}
+
+.section .left-column {
+    min-width:170px;
+    margin-right:15px;
+}
